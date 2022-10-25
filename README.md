@@ -12,7 +12,7 @@ The system includes a point of sale system also it manages Sellers, Admins and s
 
 
 ## Author
-**Saggurthi Veera Phani** - [LinkedIn](https://www.linkedin.com/in/sanchai-ahilan-j-k-812953222/)
+**Saggurthi Veera Phani** - [LinkedIn](https://www.linkedin.com/in/veera-phani-b6968b143/)
 
 
 ## Prerequisites
